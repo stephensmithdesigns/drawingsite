@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-29 17:56+0000\n"
+"PO-Revision-Date: 2018-01-29 17:57+0000\n"
+"Last-Translator: Felix Krusch <felix@richwp.com>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Text in echo
+#: richone/single-related.php:107
+msgid "Back to Home Page"
+msgstr "Zurück zur Startseite"
+
+#. Text in echo
+#: richone/index.php:33
+msgid "404 - Sorry, nothing was found!"
+msgstr "404 - Nichts, aber auch gar nichts konnte gefunden werden."
+
+#. Text in function
+#: richone/functions.php:1
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Veröffentlicht am</span> %s"
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Above Comments Widget Area"
+msgstr "Widgetbereich über den Kommentaren"
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Above Related Posts Widget Area"
+msgstr "Widgetbereich den Verwandten Artinkeln"
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Add widgets here to appear above the Comments Section"
+msgstr ""
+"Fügen Sie hier Widgets hinzu, welche über den Kommentaren angezeigt werden."
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Add widgets here to appear above the Related Posts Section"
+msgstr ""
+"Fügen Sie hier Widgets hinzu, welche über den Verwandten Artikeln angezeigt "
+"werden."
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Add widgets here to appear in the footer widget area."
+msgstr "Füge Widgets dem Footer Widget Bereich hinzu"
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Add widgets here to appear in the sidebar of the shop archives."
+msgstr ""
+"Fügen Sie hier Widgets hinzu, welche in Shop Artikellisten angezeigt werden.."
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Add widgets here to appear on bottom of your page."
+msgstr ""
+"Fügen Sie hir Widgets hinzu, welche ganz unten unter der Fußzeile angezeigt "
+"werden."
+
+#. Text in echo
+#: richone/woocommerce/cart/cart.php:138
+msgid "Apply Coupon"
+msgstr "Coupon einlösen"
+
+#. Text in function
+#: richone/woocommerce/cart/cart.php:121
+msgid "Available on backorder"
+msgstr "Bitte kontaktieren Sie uns"
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Bottom Widget Area"
+msgstr "Unterer Widgetbereich"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Button Font Color"
+msgstr "Button Schriftfarbe"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Colors"
+msgstr "Farben"
+
+#. Text in echo
+#: richone/comments.php:54
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Copyright Notice in Footer"
+msgstr "Copyright Hinweis in Fußzeile"
+
+#. Text in echo
+#: richone/woocommerce/cart/cart.php:138
+msgid "Coupon"
+msgstr "Coupon"
+
+#. Text in echo
+#: richone/woocommerce/cart/cart.php:138
+msgid "Coupon code"
+msgstr "Coupon Code"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Display Featured Image on Single Post View"
+msgstr "Zeige das Artikelbild auf den Artikel Detail Seiten"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Display Opening Headline / Description on Front Page"
+msgstr "Startseiten Überschrift / Beschreibung"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Display Related Posts"
+msgstr "Verwandte Artikel anzeigen"
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Footer Navigation"
+msgstr "Fußzeilennavigation"
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Footer Widget Area"
+msgstr "Footer Widget Bereich"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Header Color"
+msgstr "Kopfzeilen Hintergrundfarbe"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Header Font Color"
+msgstr "Kopfzeilen Schriftfarbe"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Header Font Hover Color"
+msgstr "Kopfzeilen Hintergrundfarbe Hover"
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Icon Menu"
+msgstr "Icon Menü"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Lead Color"
+msgstr "Hauptfarbe"
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Menu Shop"
+msgstr "Shop Menü"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Misc."
+msgstr "Weiteres"
+
+#. Text in echo
+#: richone/index.php:27
+msgid "Nothing matched your search criteria. Please try searching again:"
+msgstr ""
+"Leider könnten wir zu den eingegebenen Suchbegriffen nichts finden. "
+"Versuchen Sie es erneut:"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Opening Description"
+msgstr "Startseiten Beschreibung"
+
+#. Text in function
+#: richone/inc/richwp-options.php:1
+msgid "Opening Headline / Description"
+msgstr "Startseiten Überschrift Beschreibung"
+
+#. Text in function
+#: richone/page-fullwidth.php:16
+msgid "Pages:"
+msgstr "Seiten:"
+
+#. Text in echo
+#: richone/woocommerce/cart/cart.php:37 richone/woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr "Preis"
+
+#. Text in function
+#: richone/functions.php:1 richone/header.php:30
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#. Text in echo
+#: richone/woocommerce/cart/cart.php:36 richone/woocommerce/cart/cart.php:79
+msgid "Product"
+msgstr "Produkt"
+
+#. Text in echo
+#: richone/woocommerce/cart/cart.php:38 richone/woocommerce/cart/cart.php:103
+msgid "Quantity"
+msgstr "Anzahl"
+
+#. Text in function
+#: richone/woocommerce/cart/cart.php:121
+msgid "Remove this item"
+msgstr "Artikel entfernen"
+
+#. Text in echo
+#: richone/header.php:47 richone/searchform.php:7 richone/searchform.php:10
+msgid "Search"
+msgstr "Suche"
+
+#. Text in function
+#: richone/index-headlines.php:43
+msgid "Search for: %s"
+msgstr "Suche nach: %s"
+
+#. Text in echo
+#: richone/index.php:37
+msgid "Sorry, nothing was found!"
+msgstr "Es konnte nichts gefunden werden."
+
+#. Text in echo
+#: richone/woocommerce/cart/cart.php:39 richone/woocommerce/cart/cart.php:120
+msgid "Total"
+msgstr "Summe"
+
+#. Text in echo
+#: richone/woocommerce/cart/cart.php:144
+msgid "Update Cart"
+msgstr "Warenkorb aktualisieren"
+
+#. Text in echo
+#: richone/loop.php:9
+msgid "View Post"
+msgstr "Artikel lesen"
+
+#. Text in function
+#: richone/functions.php:1
+msgid "Woo Sidebar Widget Area"
+msgstr "Shop Widgetbereich"
+
+#. Text in function
+#: richone/functions.php:1
+msgid "WordPress Theme by %1$s"
+msgstr "WordPress Theme von %1$s"
+
+#. Text in function
+#: richone/footer.php:12
+msgid "Y"
+msgstr "Y"
