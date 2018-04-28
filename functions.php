@@ -1,9 +1,12 @@
 <?php
+require_once( 'wp-less/wp-less.php' );
+if ( ! is_admin() )
+    wp_enqueue_style( 'style', get_stylesheet_directory_uri() . '/less/style.less' );
+
 function my_theme_enqueue_styles() {
 
     $parent_style = 'richone-mainstyle';
 
-    wp_enqueue_style( 'less-style', get_stylesheet_directory_uri() . '/main.less' );
     wp_enqueue_style( $parent_style, get_template_directory_uri() . '/style.css' );
     wp_enqueue_style( 'child-style',
         get_stylesheet_directory_uri() . '/style.css',
@@ -12,5 +15,4 @@ function my_theme_enqueue_styles() {
     );
 }
 add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
-require_once( 'wp-less/wp-less.php' );
 ?>
