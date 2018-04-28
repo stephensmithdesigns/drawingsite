@@ -1,8 +1,8 @@
-<?php 
-  $showopeningheadlinedescription = richone_themeoptions (esc_attr(('showopeningheadlinedescription'))); 
+<?php
+  $showopeningheadlinedescription = richone_themeoptions (esc_attr(('showopeningheadlinedescription')));
   if ((!empty($showopeningheadlinedescription)) && is_front_page() && is_home() && !(is_paged()) ) : ?>
     <div class="row">
-      <div class="column large-8 medium-10">
+      <div class="column small-12">
         <div class="archive-title-description">
           <h2 class="entry-title archive-title"><?php echo esc_html(richone_themeoptions('openingheadline')); ?></h2>
           <div class="taxonomy-description"><?php echo esc_html(richone_themeoptions('openingdescription')); ?></div>
