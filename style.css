@@ -10,9 +10,6 @@
 
 /* =Theme customization starts here
 ------------------------------------------------------- */
-
-
-.entry-title archive-title {
-  color:purple;
-  background:red;
+.archive-title-description {
+  background:pink;
 }
